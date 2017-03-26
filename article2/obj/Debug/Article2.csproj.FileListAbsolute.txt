@@ -1,0 +1,10 @@
+d:\app\my\Article2\Article2\bin\Debug\Article2.exe.config
+D:\app\my\Article2\Article2\bin\Debug\Article2.exe
+D:\app\my\Article2\Article2\bin\Debug\Article2.pdb
+D:\app\my\Article2\Article2\obj\Debug\Article2.exe
+D:\app\my\Article2\Article2\obj\Debug\Article2.pdb
+C:\app\my\Article2\Article2\bin\Debug\Article2.exe.config
+C:\app\my\Article2\Article2\obj\Debug\Article2.exe
+C:\app\my\Article2\Article2\obj\Debug\Article2.pdb
+C:\app\my\Article2\Article2\bin\Debug\Article2.exe
+C:\app\my\Article2\Article2\bin\Debug\Article2.pdb
